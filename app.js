@@ -24,5 +24,6 @@ app.use(router);
 routes(router);
 
 app.listen(5200,()=>{
-  console.log('server listening at http://127.0.0.1:5200')
+  console.log('server listening at http://127.0.0.1:5200');
+  console.log("发起请求的参考格式：http://127.0.0.1:5200?novelName=诛仙&author=萧鼎");
 });
