@@ -1,0 +1,14 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cheerio": "*",
+    "express": "*",
+    "iconv-lite": "^0.4.15",
+    "morgan": "^1.8.0",
+    "superagent": "^3.4.1",
+    "superagent-charset": "^1.1.1",
+    "sync-request": "^4.0.1"
+  }
+}
